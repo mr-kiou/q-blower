@@ -1,4 +1,5 @@
 # Q-BLOWER MK1
+##THIS PROJECT IS NOT YET FINISHED
 Open-source version of the slime blower from Ghostbusters 2
 
 In this repository, you can find all the STL files needed to 3D print your own 1:1 slime blower.
