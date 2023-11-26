@@ -4,6 +4,8 @@
 
 Open-source version of the slime blower from Ghostbusters 2
 
+![Image of the proton pack]([https://github.com/mr-kiou/q-pack/blob/MK4/QPack_MK4.JPG](https://github.com/mr-kiou/q-blower/blob/main/Q-blower.jpg))
+
 In this repository, you can find all the STL files needed to 3D print your own 1:1 slime blower.
 Our goal is to make the best, easy to use 3D printable version of the slime blower from Ghostbusters 2.
 You can use the full project or parts of it for your build. It's very versatile. 
