@@ -1,7 +1,5 @@
 # Q-BLOWER MK1
 
-##THIS PROJECT IS NOT YET FINISHED
-
 Open-source version of the slime blower from Ghostbusters 2
 
 ![Image of the slime blower](https://github.com/mr-kiou/q-blower/blob/main/Q-blower.jpg)
