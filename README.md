@@ -1,7 +1,5 @@
 # Q-BLOWER MK1
 
-##THIS PROJECT IS NOT YET FINISHED
-
 Open-source version of the slime blower from Ghostbusters 2
 
 ![Image of the slime blower](https://github.com/mr-kiou/q-blower/blob/main/Q-blower.jpg)
@@ -14,9 +12,7 @@ I took the time and effort to make almost everything needed to build one.
 They are made for 3D printing, so some very little alterations are expected but it should be a very good representation of the slime blower.
 
 ## Instructions
-Assembly instruction can be found here :
-
-//not yet
+Assembly instruction can be found here : https://www.etsy.com/listing/1758713399/q-blower-mk1-full-3d-printed-slimeblower
 
 ## Official facebook group
 If you have any question or need more informations for the assembly, you can go to our official FB group
